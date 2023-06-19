@@ -5,9 +5,9 @@ var choice : [String] = ["rock","paper","scissors"]
 var compChoice = choice[Int.random(in: 0...2)]
 
 print("PLEASE ENTER YOUR CHOICE")
-print("1 : ROCK 🪨")
-print("2 : PAPER 📜 ")
-print("3 : SCISSORS ✂️")
+print("ROCK 🪨")
+print("PAPER 📜 ")
+print("SCISSORS ✂️")
 
 let myChoice = "scissors"
 
